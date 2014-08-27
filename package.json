@@ -1,0 +1,8 @@
+{
+    "name": "PickBaiduImage",
+    "version": "0.0.1",
+    "description": "a tool to download images from baidu",
+    "dependencies": {
+        "superagent": "*"
+    }
+}
